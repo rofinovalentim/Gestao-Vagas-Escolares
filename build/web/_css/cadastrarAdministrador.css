@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 8, 2018, 6:57:14 PM
+    Author     : Rofino Chunga Jr
+*/
+body{
+    background: none;
+}
+.btn{
+    float: left;
+}
+.reset{
+    float: right;
+    background-color: red;
+    width: 30%;
+    font-size: 20px;
+    border: none;/*2px solid #4caf50;*/
+    color: #fff;
+    cursor:  pointer;
+    margin: 12px 0;
+    padding: 6px 0;
+    border-radius: 5px;
+}
+.reset:hover{
+    color: black;
+}
+.login-box{
+    padding: 15px 35px;
+}
+

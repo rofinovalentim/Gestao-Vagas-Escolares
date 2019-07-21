@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5/set/2018, 12:21:05
+    Author     : 1001
+*/
+.centralizar_type2{
+    justify-content: center;
+    align-items: center;
+    display:  ruby;
+}
+body h1{
+    text-align: center;
+}
+#home_content{
+}
+img{
+    width: 600px;
+    height: 280px;
+}

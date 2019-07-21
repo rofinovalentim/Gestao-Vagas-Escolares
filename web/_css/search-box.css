@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 13, 2018, 10:44:24 AM
+    Author     : Rofino Chunga Jr
+*/
+
+
+.search_box{
+    position: absolute;
+    float: right;
+    left: 65%;
+    top: 0%;
+    display: inline-flex;
+    font-size: 20px;
+}
+
+h2{
+    float: left;
+    color:  #003300;
+    border-bottom: 2px solid yellowgreen;  /*#4caf50*/;
+
+    top: -10px;
+}
+.search_box_input{
+    font-size: inherit;
+    border: 2px solid #2991d6;
+    border-radius: 0.5em 0 0 0.5em;
+    padding: 0.2em 0.5em;
+    outline: 0;
+}
+.search_box_button{
+    margin:0px;
+    font-size: 20px;
+    border: 2px solid #2991d6;
+    border-radius: 0 0.5em 0.5em 0;
+    background-color: #207dbb;
+    cursor: pointer;
+    border-left: 0;
+    font-weight: bold;
+    outline: 0;
+}
+.search_box_input:hover,.seach_box_input:focus{
+    border-color:  #006600;
+} 
+.search_box_button:hover,.seach_box_button:focus{
+    border-color:  #006600;
+    background-color:  #006600;
+} 
+

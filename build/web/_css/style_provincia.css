@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 6, 2018, 7:55:20 AM
+    Author     : Rofino Chunga Jr
+*/
+table.tabela{
+    border: 4px solid #606060;
+    border-spacing:0px;
+    margin-left:auto;
+    margin-right:auto;
+    float: left;
+    table-layout: auto;
+}
+.titulo_tabela{
+    background-color: #00adee;
+}
+table.tabela td{
+    border: 1px solid #606060;
+    padding:15px;
+    text-align: center;
+}
+
+
+table{
+    border: 10px;
+}
+tr{
+    border:10px;   
+}
+td{
+    border: 10px;
+}
+
+
+/* estilizacao de nav*/
+
+.my_nav{
+    
+}

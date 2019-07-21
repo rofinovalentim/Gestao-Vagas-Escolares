@@ -1,0 +1,194 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 30, 2018, 6:20:54 PM
+    Author     : Rofino Chunga Jr
+*/
+
+.content {   
+    float:left;
+    width:70%;
+    position: absolute; 
+    height: 100%;
+    border: none;
+}
+
+#footer{
+    position: relative;
+    float:  bottom;
+    margin-top:-16px;
+   
+    width: 100%;
+    height:auto;
+   /*text-align: center;*/
+    background:  #2991d6;
+}
+
+
+#header{
+    background: #00adee;
+    position: relative;
+    height: 100px;
+    width: 100%;
+         
+}/*
+
+.centralizar{
+    margin: 0 auto;
+    width: 100%;
+}
+.opcoes_style{
+    position: absolute;
+    left: 220px;
+    top: 5px;
+
+}
+.header li{
+    background:  #207dbb;
+    display: inline;
+}
+
+.headerLink{
+    position: absolute;
+    float: right;
+    color: white;
+    top: 10px;
+    display: inline-flex;
+    font-size: 20px; 
+}
+.seach_box{
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    display: inline-flex;
+    font-size: 20px;
+
+}
+.seach_box_input{
+    font-size: inherit;
+    border: 2px solid #2991d6;
+    border-radius: 0.5em 0 0 0.5em;
+    padding: 0.2em 0.5em;
+    outline: 0;
+}
+.seach_box_button{
+    font-size: inherit;
+    border: 2px solid #2991d6;
+    border-radius: 0 0.5em 0.5em 0;
+    background-color: #207dbb;
+    cursor: pointer;
+    border-left: 0;
+    font-weight: bold;
+    outline: 0;
+}
+.seach_box_input:hover,.seach_box_input:focus{
+    border-color:  #006600;
+
+} 
+.seach_box_button:hover,.seach_box_button:focus{
+    border-color:  #006600;
+    background-color:  #006600;
+} 
+.link_menu{
+    background:  #207dbb;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    border-radius: 5%;
+    left: 50%;
+}
+
+
+#menu{
+    float: left;
+    width: 20%;
+    margin-top: 70px;
+    height: auto;
+    position: fixed;
+    background: -webkit-linear-gradient(left,#e2f6f6,#f1eeee);
+    
+    border-right:2px solid #2991d6;
+    border-bottom:2px solid #2991d6;
+
+}
+.my_li_style:hover{
+    cursor: progress;
+}
+.my_menu_li{
+    display: inline;
+    padding: 16px;
+}
+.link_menu{
+    text-decoration: none;
+    color: #006600;
+
+}
+.link_menu:hover{
+    text-transform: uppercase;
+    text-decoration: overline;
+    color: black;
+}
+
+button .menuList{
+    margin-top: 30px;
+}
+
+#menu p{
+    text-decoration: none;
+    font-size:30px; 
+    font-family: sans-serif;
+    color:black;
+ 
+    margin-left: 20px;
+    padding: 10px;
+    width: 30%;
+    border-radius: 0px;
+    border-bottom: 6px solid #207dbb;
+}
+.menuList {
+    list-style-type: none;
+    width: 80%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    border-radius:5% ;
+    text-align: center;
+}
+.menuList a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    font-size: 15px;
+    text-decoration: none;
+    background:#207dbb ;
+}
+
+
+
+#content{
+    width: 80%;
+    height: auto;
+    background-color: white;
+}
+#frame_style{
+    margin-top: 0px;
+    width: 80%;
+    height:800px;
+}
+.position{
+    display: flex;
+}*/
+
+
+
+
+
+
+
+
+
+
+
